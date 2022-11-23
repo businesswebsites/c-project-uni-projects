@@ -1,2 +1,4 @@
 # c-project-uni-projects
 C-Projekt
+
+Diese Projekt umfasste eine Programmieraufgabe mit der Programmiersprache C. Hierbei war die Aufgabenstellung ein Spiel zu erstellen, was eine Kombination aus Candy Crush und 4 gewinnt darstellen sollte. Dieses Spiel war auf Zahlen basiert und sollte keine graphische Darstellung beinhalten. Als Eingabe erhielt das Programm Textdateien, wobei diese Dateien nur Zahlenkombinationen enthielten. Diese Zahlen sollten dabei Farben darstellen und wenn davon 4 entsprechende gleiche Farben nebeneinander, übereinander oder diagonal zueinander liegen, werden sie gelöscht. Als Ausgabe sollte dann das Feld mit den übrig gebliebenen Zahlen sein. Die Eingabe-Datei hat dabei 2 Spalten. Die erste Spalte für die Farbe und die zweite Spalte für die jeweilige x-Koordiante an der, der Stein sozusagen herunterfällt und liegt.
